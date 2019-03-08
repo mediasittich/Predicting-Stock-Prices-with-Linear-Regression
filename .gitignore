@@ -1,5 +1,6 @@
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
+__pycache__/
 
 # Config File for Quandl API
 API_config.py
